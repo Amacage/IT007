@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "AppDelegate.h"
+
 @interface ViewController ()
 
 @end
@@ -19,13 +19,6 @@
     NSLog(@"%s",__FUNCTION__);
 }
 
-
-
-
-
--(void)test {
-
-}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
